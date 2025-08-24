@@ -1,7 +1,7 @@
 This was an attemp to automatically downlaod copies of all my flickr favorites from other users. They are quite a few.
 Unfortunately, there does not seem to be a way around the regrettable design decision that the API will not serve any image labelled unsafe, mostly nsfw stuff.
 
-I originally created this in Google Colab as well, for mere convenience.
+I originally created this in Google Colab as well, for mere convenience around October 2024.
 
 ```python
 # Install flickrapi if not already installed
