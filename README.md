@@ -6,3 +6,4 @@ ______
 
 - [Spotify playlist from csv](./spoti-playlist-maker.md)
 - [Download Flickr faves](./flickr-favs.md)
+- [Pdf Extractor](./pdf-hilite.md)
