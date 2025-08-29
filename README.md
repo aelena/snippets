@@ -4,7 +4,7 @@ Absolutely no guarantees about the codes here.
 
 ______
 
-- [Spotify playlist from csv](./spoti-playlist-maker.md)
-- [Download Flickr faves](./flickr-favs.md)
-- [Pdf Extractor](./pdf-hilite.md)
+- [Spotify playlist from csv](./spoti-playlist-maker.md) - create a massive playlist from a csv files with artist and album names
+- [Download Flickr faves](./flickr-favs.md) - download your flickr faves locally
+- [Pdf Extractor](./pdf-hilite.md) - extract and concatenate highlighted text and notes from a PDF
 - [Class-based context extractor](./content-extract.md) - I use this to skip a naive paywall in a certain newspaper
